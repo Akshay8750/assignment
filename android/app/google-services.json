@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "86566537778",
+    "firebase_url": "https://e-commerce-d6c8a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "e-commerce-d6c8a",
+    "storage_bucket": "e-commerce-d6c8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86566537778:android:e529c4b52d19bde7fc8a2b",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEL0FfHkzHxc14EPXr45s_Eijx8gwMCts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
